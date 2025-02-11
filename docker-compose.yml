@@ -1,0 +1,51 @@
+version: "3.8"
+
+services:
+  # frontend:
+  #   build: ./frontend
+  #   ports:
+  #     - "5173:5173"
+  #   environment:
+  #     - VITE_API=http://localhost:5000
+  #   depends_on:
+  #     - backend
+  #   volumes:
+  #     - ./frontend:/app
+  #     - /app/node_modules
+
+  backend:
+    build: ./backend
+    ports:
+      - "8080:8080"
+    environment:
+      - DATABASE_URL=mongodb://mongodb:27017/workouts
+    depends_on:
+      - mongodb
+    volumes:
+      - ./backend:/app
+      - /app/node_modules
+
+  mongodb:
+    image: mongo:latest
+    ports:
+      - "27071:27017"
+    volumes:
+      - mongodbdata:/data/db
+      - ./backend/data.json:/data.json
+    command: ["mongod"]
+
+  mongo-seed:
+    image: mongo:latest
+    depends_on:
+      - mongodb
+    volumes:
+      - ./backend/data.json:/data.json
+    entrypoint:
+      [
+        "bash",
+        "-c",
+        "sleep 10 && mongoimport --host mongodb --db workouts --collection workouts --file /data.json --jsonArray",
+      ]
+
+volumes:
+  mongodbdata:

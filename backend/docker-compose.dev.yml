@@ -1,0 +1,6 @@
+version: "3.8"
+
+services:
+  gym-backend:
+    container_name: gym-backend
+    command: npm run dev

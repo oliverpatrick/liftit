@@ -1,0 +1,2096 @@
+[
+  {
+    "id": 1,
+    "restIntervals": "60–90 seconds",
+    "intensity": "Select a weight that allows you to complete the prescribed reps while leaving about 2 solid reps in the tank.",
+    "name": "5 Day Beginner Hybrid Calisthenics & Equipment Workout",
+    "description": "A beginner-friendly hybrid workout that blends bodyweight and equipment-based exercises to develop strength, endurance, and mobility. Ideal for those starting their fitness journey.",
+    "days": [
+      {
+        "id": 1,
+        "name": "Day One - Upper Body (Push) & Core",
+        "warmups": [
+          {
+            "exerciseName": "Dynamic Arm Circles",
+            "sets": 1,
+            "reps": {
+              "min": 30,
+              "max": 30
+            },
+            "category": ["warmup"],
+            "subCategory": ["shoulders"]
+          },
+          {
+            "exerciseName": "Dynamic Chest Opener",
+            "sets": 1,
+            "reps": {
+              "min": 30,
+              "max": 30
+            },
+            "category": ["warmup"],
+            "subCategory": ["chest"]
+          }
+        ],
+        "exercises": [
+          {
+            "exerciseName": "Push-Ups",
+            "sets": 3,
+            "reps": {
+              "min": 10,
+              "max": 10
+            },
+            "category": ["push"],
+            "subCategory": ["chest"]
+          },
+          {
+            "exerciseName": "Barbell Chest Press",
+            "sets": 3,
+            "reps": {
+              "min": 6,
+              "max": 10
+            },
+            "category": ["push"],
+            "subCategory": ["chest"]
+          },
+          {
+            "exerciseName": "Dumbbell Shoulder Press",
+            "sets": 3,
+            "reps": {
+              "min": 10,
+              "max": 10
+            },
+            "category": ["push"],
+            "subCategory": ["shoulders"]
+          },
+          {
+            "exerciseName": "Plank",
+            "sets": 3,
+            "reps": {
+              "min": 30,
+              "max": 30
+            },
+            "category": ["core"],
+            "subCategory": ["abs"]
+          },
+          {
+            "exerciseName": "Chest Flys",
+            "sets": 3,
+            "reps": {
+              "min": 10,
+              "max": 12
+            },
+            "category": ["push"],
+            "subCategory": ["chest"]
+          },
+          {
+            "exerciseName": "Tricep Pulldowns",
+            "sets": 3,
+            "reps": {
+              "min": 10,
+              "max": 12
+            },
+            "category": ["push"],
+            "subCategory": ["triceps"]
+          },
+          {
+            "exerciseName": "Diamond Push-Ups",
+            "sets": 3,
+            "reps": {
+              "min": 10,
+              "max": 12
+            },
+            "category": ["push"],
+            "subCategory": ["triceps", "chest"]
+          },
+          {
+            "exerciseName": "Pike Push-Ups",
+            "sets": 3,
+            "reps": {
+              "min": 10,
+              "max": 12
+            },
+            "category": ["push"],
+            "subCategory": ["shoulders", "chest"]
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Day Two - Lower Body",
+        "warmups": [
+          {
+            "exerciseName": "Dynamic Leg Swings",
+            "sets": 1,
+            "reps": {
+              "min": 10,
+              "max": 10
+            },
+            "category": ["warmup"],
+            "subCategory": ["legs"]
+          },
+          {
+            "exerciseName": "Hip Circles",
+            "sets": 1,
+            "reps": {
+              "min": 10,
+              "max": 10
+            },
+            "category": ["warmup"],
+            "subCategory": ["hips"]
+          }
+        ],
+        "exercises": [
+          {
+            "exerciseName": "Bodyweight Squats",
+            "sets": 3,
+            "reps": {
+              "min": 15,
+              "max": 15
+            },
+            "category": ["legs"],
+            "subCategory": ["quads"]
+          },
+          {
+            "exerciseName": "Walking Lunges",
+            "sets": 3,
+            "reps": {
+              "min": 10,
+              "max": 10
+            },
+            "category": ["legs"],
+            "subCategory": ["glutes", "quads"]
+          },
+          {
+            "exerciseName": "Dumbbell Deadlifts",
+            "sets": 3,
+            "reps": {
+              "min": 10,
+              "max": 10
+            },
+            "category": ["pull"],
+            "subCategory": ["hamstrings", "lower back"]
+          },
+          {
+            "exerciseName": "Bulgarian Split Squats",
+            "sets": 3,
+            "reps": {
+              "min": 10,
+              "max": 10
+            },
+            "category": ["legs"],
+            "subCategory": ["quads", "glutes"]
+          },
+          {
+            "exerciseName": "Calf Raises",
+            "sets": 3,
+            "reps": {
+              "min": 20,
+              "max": 20
+            },
+            "category": ["legs"],
+            "subCategory": ["calves"]
+          },
+          {
+            "exerciseName": "Glute Bridges",
+            "sets": 3,
+            "reps": {
+              "min": 15,
+              "max": 15
+            },
+            "category": ["legs"],
+            "subCategory": ["glutes"]
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Day Three - Upper Body (Pull)",
+        "warmups": [
+          {
+            "exerciseName": "Band Pull-Aparts",
+            "sets": 1,
+            "reps": {
+              "min": 15,
+              "max": 15
+            },
+            "category": ["warmup"],
+            "subCategory": ["back"]
+          },
+          {
+            "exerciseName": "Shoulder Shrugs",
+            "sets": 1,
+            "reps": {
+              "min": 15,
+              "max": 15
+            },
+            "category": ["warmup"],
+            "subCategory": ["shoulders"]
+          }
+        ],
+        "exercises": [
+          {
+            "exerciseName": "Assisted Pull-Ups",
+            "sets": 3,
+            "reps": {
+              "min": 8,
+              "max": 8
+            },
+            "category": ["pull"],
+            "subCategory": ["back"]
+          },
+          {
+            "exerciseName": "Inverted Rows",
+            "sets": 3,
+            "reps": {
+              "min": 10,
+              "max": 10
+            },
+            "category": ["pull"],
+            "subCategory": ["back"]
+          },
+          {
+            "exerciseName": "Dumbbell Bicep Curls",
+            "sets": 3,
+            "reps": {
+              "min": 12,
+              "max": 12
+            },
+            "category": ["pull"],
+            "subCategory": ["biceps"]
+          },
+          {
+            "exerciseName": "Negative Pull-Ups",
+            "sets": 3,
+            "reps": {
+              "min": 5,
+              "max": 5
+            },
+            "category": ["pull"],
+            "subCategory": ["back"]
+          },
+          {
+            "exerciseName": "Hanging Knee/Leg Raises",
+            "sets": 3,
+            "reps": {
+              "min": 12,
+              "max": 15
+            },
+            "category": ["core"],
+            "subCategory": ["abs"]
+          },
+          {
+            "exerciseName": "Supermans",
+            "sets": 3,
+            "reps": {
+              "min": 15,
+              "max": 15
+            },
+            "category": ["pull"],
+            "subCategory": ["lower back"]
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Day Four - Full-Body & Mobility",
+        "warmups": [
+          {
+            "exerciseName": "Jumping Jacks",
+            "sets": 1,
+            "reps": {
+              "min": 30,
+              "max": 30
+            },
+            "category": ["warmup"],
+            "subCategory": ["full-body"]
+          },
+          {
+            "exerciseName": "Dynamic Stretching",
+            "sets": 1,
+            "reps": {
+              "min": 30,
+              "max": 30
+            },
+            "category": ["warmup"],
+            "subCategory": ["mobility"]
+          }
+        ],
+        "exercises": [
+          {
+            "exerciseName": "Burpees",
+            "sets": 3,
+            "reps": {
+              "min": 8,
+              "max": 8
+            },
+            "category": ["full-body"],
+            "subCategory": ["cardio"]
+          },
+          {
+            "exerciseName": "Dumbbell Shoulder Press",
+            "sets": 3,
+            "reps": {
+              "min": 10,
+              "max": 10
+            },
+            "category": ["push"],
+            "subCategory": ["shoulders"]
+          },
+          {
+            "exerciseName": "Bodyweight Glute Bridges",
+            "sets": 3,
+            "reps": {
+              "min": 15,
+              "max": 15
+            },
+            "category": ["legs"],
+            "subCategory": ["glutes"]
+          },
+          {
+            "exerciseName": "Jump Squats",
+            "sets": 3,
+            "reps": {
+              "min": 12,
+              "max": 12
+            },
+            "category": ["legs"],
+            "subCategory": ["plyometrics"]
+          },
+          {
+            "exerciseName": "Push-Ups with Shoulder Taps",
+            "sets": 3,
+            "reps": {
+              "min": 10,
+              "max": 10
+            },
+            "category": ["push", "core"],
+            "subCategory": ["chest", "shoulders"]
+          },
+          {
+            "exerciseName": "Mountain Climbers",
+            "sets": 3,
+            "reps": {
+              "min": 30,
+              "max": 30
+            },
+            "category": ["core", "cardio"],
+            "subCategory": ["abs"]
+          },
+          {
+            "exerciseName": "Plank Jacks",
+            "sets": 3,
+            "reps": {
+              "min": 15,
+              "max": 15
+            },
+            "category": ["core", "cardio"],
+            "subCategory": ["abs"]
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Day Five - Core & Stability",
+        "warmups": [
+          {
+            "exerciseName": "Cat-Cow Stretch",
+            "sets": 1,
+            "reps": {
+              "min": 10,
+              "max": 10
+            },
+            "category": ["warmup"],
+            "subCategory": ["spine"]
+          },
+          {
+            "exerciseName": "Dynamic Core Activation",
+            "sets": 1,
+            "reps": {
+              "min": 10,
+              "max": 10
+            },
+            "category": ["warmup"],
+            "subCategory": ["core"]
+          }
+        ],
+        "exercises": [
+          {
+            "exerciseName": "Plank",
+            "sets": 3,
+            "reps": {
+              "min": 30,
+              "max": 30
+            },
+            "category": ["core"],
+            "subCategory": ["abs"]
+          },
+          {
+            "exerciseName": "Russian Twists",
+            "sets": 3,
+            "reps": {
+              "min": 20,
+              "max": 20
+            },
+            "category": ["core"],
+            "subCategory": ["obliques"]
+          },
+          {
+            "exerciseName": "Dumbbell Side Bends",
+            "sets": 3,
+            "reps": {
+              "min": 12,
+              "max": 12
+            },
+            "category": ["core"],
+            "subCategory": ["obliques"]
+          },
+          {
+            "exerciseName": "L-Sit Hold",
+            "sets": 3,
+            "reps": {
+              "min": 15,
+              "max": 30
+            },
+            "category": ["core"],
+            "subCategory": ["abs", "stability"]
+          },
+          {
+            "exerciseName": "V-Ups",
+            "sets": 3,
+            "reps": {
+              "min": 15,
+              "max": 15
+            },
+            "category": ["core"],
+            "subCategory": ["abs"]
+          },
+          {
+            "exerciseName": "Tuck Planche Hold",
+            "sets": 3,
+            "reps": {
+              "min": 10,
+              "max": 15
+            },
+            "category": ["core"],
+            "subCategory": ["stability"]
+          },
+          {
+            "exerciseName": "Handstand Practice",
+            "sets": 1,
+            "reps": {
+              "min": 5,
+              "max": 5,
+              "unit": "minutes"
+            },
+            "category": ["skill"],
+            "subCategory": ["balance"]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Home Workout",
+    "restIntervals": "60–90 seconds",
+    "intensity": "Select a weight that allows you to complete the prescribed reps while leaving about 2 solid reps in the tank.",
+    "description": "A home-based workout focusing on multiple muscle groups. The program is split into three days: Day 1 targets legs, shoulders, and abs; Day 2 focuses on chest and back; Day 3 works the arms and abs.",
+    "days": [
+      {
+        "name": "Day 1 - Legs, Shoulders, and Abs",
+        "warmups": [
+          {
+            "exerciseName": "Jumping Jacks",
+            "sets": 1,
+            "reps": {
+              "min": 30,
+              "max": 30
+            },
+            "category": ["warmup"],
+            "subCategory": ["full-body"]
+          },
+          {
+            "exerciseName": "Dynamic Leg Swings",
+            "sets": 1,
+            "reps": {
+              "min": 10,
+              "max": 10
+            },
+            "category": ["warmup"],
+            "subCategory": ["legs"]
+          },
+          {
+            "exerciseName": "Arm Circles",
+            "sets": 1,
+            "reps": {
+              "min": 15,
+              "max": 15
+            },
+            "category": ["warmup"],
+            "subCategory": ["shoulders"]
+          }
+        ],
+        "exercises": [
+          {
+            "exerciseName": "Dumbbell Squats",
+            "sets": 3,
+            "reps": {
+              "min": 6,
+              "max": 8
+            },
+            "category": ["legs"],
+            "subCategory": ["quads"]
+          },
+          {
+            "exerciseName": "Standing Shoulder Press",
+            "sets": 3,
+            "reps": {
+              "min": 6,
+              "max": 8
+            },
+            "category": ["shoulders"],
+            "subCategory": ["deltoids"]
+          },
+          {
+            "exerciseName": "Dumbbell Lunges",
+            "sets": 2,
+            "reps": {
+              "min": 8,
+              "max": 10
+            },
+            "category": ["legs"],
+            "subCategory": ["quads", "glutes"]
+          },
+          {
+            "exerciseName": "Dumbbell Upright Rows",
+            "sets": 2,
+            "reps": {
+              "min": 8,
+              "max": 10
+            },
+            "category": ["shoulders"],
+            "subCategory": ["traps"]
+          },
+          {
+            "exerciseName": "Romanian Dumbbell Deadlift",
+            "sets": 2,
+            "reps": {
+              "min": 6,
+              "max": 8
+            },
+            "category": ["hamstrings"],
+            "subCategory": ["hamstrings"]
+          },
+          {
+            "exerciseName": "Lateral Raises",
+            "sets": 3,
+            "reps": {
+              "min": 8,
+              "max": 10
+            },
+            "category": ["shoulders"],
+            "subCategory": ["deltoids"]
+          },
+          {
+            "exerciseName": "Seated Calf Raises",
+            "sets": 4,
+            "reps": {
+              "min": 10,
+              "max": 12
+            },
+            "category": ["calves"],
+            "subCategory": ["calves"]
+          },
+          {
+            "exerciseName": "Crunches with Legs Elevated",
+            "sets": 3,
+            "reps": {
+              "min": 10,
+              "max": 12
+            },
+            "category": ["abs"],
+            "subCategory": ["abs"]
+          }
+        ]
+      },
+      {
+        "name": "Day 2 - Chest and Back",
+        "warmups": [
+          {
+            "exerciseName": "Arm Circles",
+            "sets": 1,
+            "reps": {
+              "min": 20,
+              "max": 20
+            },
+            "category": ["warmup"],
+            "subCategory": ["chest", "shoulders"]
+          },
+          {
+            "exerciseName": "Band Pull-Aparts",
+            "sets": 1,
+            "reps": {
+              "min": 15,
+              "max": 15
+            },
+            "category": ["warmup"],
+            "subCategory": ["back"]
+          }
+        ],
+        "exercises": [
+          {
+            "exerciseName": "Dumbbell Bench Press or Floor Press",
+            "sets": 3,
+            "reps": {
+              "min": 6,
+              "max": 8
+            },
+            "category": ["chest"],
+            "subCategory": ["chest"]
+          },
+          {
+            "exerciseName": "Dumbbell Bent-Over Rows",
+            "sets": 3,
+            "reps": {
+              "min": 6,
+              "max": 8
+            },
+            "category": ["back"],
+            "subCategory": ["back"]
+          },
+          {
+            "exerciseName": "Dumbbell Fly",
+            "sets": 3,
+            "reps": {
+              "min": 8,
+              "max": 10
+            },
+            "category": ["chest"],
+            "subCategory": ["chest"]
+          },
+          {
+            "exerciseName": "One-Arm Dumbbell Rows",
+            "sets": 3,
+            "reps": {
+              "min": 6,
+              "max": 8
+            },
+            "category": ["back"],
+            "subCategory": ["back"]
+          },
+          {
+            "exerciseName": "Pushups",
+            "sets": 3,
+            "reps": {
+              "min": 10,
+              "max": 12
+            },
+            "category": ["chest"],
+            "subCategory": ["chest"]
+          },
+          {
+            "exerciseName": "Dumbbell Pullovers",
+            "sets": 3,
+            "reps": {
+              "min": 10,
+              "max": 12
+            },
+            "category": ["back", "chest"],
+            "subCategory": ["back", "chest"]
+          }
+        ]
+      },
+      {
+        "name": "Day 3 - Arms and Abs",
+        "warmups": [
+          {
+            "exerciseName": "Wrist Rotations",
+            "sets": 1,
+            "reps": {
+              "min": 15,
+              "max": 15
+            },
+            "category": ["warmup"],
+            "subCategory": ["arms"]
+          },
+          {
+            "exerciseName": "Arm Swings",
+            "sets": 1,
+            "reps": {
+              "min": 15,
+              "max": 15
+            },
+            "category": ["warmup"],
+            "subCategory": ["arms"]
+          }
+        ],
+        "exercises": [
+          {
+            "exerciseName": "Alternating Biceps Curls",
+            "sets": 3,
+            "reps": {
+              "min": 8,
+              "max": 10
+            },
+            "category": ["arms"],
+            "subCategory": ["biceps"]
+          },
+          {
+            "exerciseName": "Overhead Triceps Extensions",
+            "sets": 3,
+            "reps": {
+              "min": 8,
+              "max": 10
+            },
+            "category": ["arms"],
+            "subCategory": ["triceps"]
+          },
+          {
+            "exerciseName": "Seated Dumbbell Curls",
+            "sets": 2,
+            "reps": {
+              "min": 10,
+              "max": 12
+            },
+            "category": ["arms"],
+            "subCategory": ["biceps"]
+          },
+          {
+            "exerciseName": "Bench Dips",
+            "sets": 2,
+            "reps": {
+              "min": 10,
+              "max": 12
+            },
+            "category": ["arms"],
+            "subCategory": ["triceps"]
+          },
+          {
+            "exerciseName": "Concentration Curls",
+            "sets": 3,
+            "reps": {
+              "min": 10,
+              "max": 12
+            },
+            "category": ["arms"],
+            "subCategory": ["biceps"]
+          },
+          {
+            "exerciseName": "Dumbbell Kickbacks",
+            "sets": 3,
+            "reps": {
+              "min": 8,
+              "max": 10
+            },
+            "category": ["arms"],
+            "subCategory": ["triceps"]
+          },
+          {
+            "exerciseName": "Planks",
+            "sets": 3,
+            "reps": {
+              "min": 30,
+              "max": 30,
+              "unit": "seconds"
+            },
+            "category": ["core"],
+            "subCategory": ["abs"]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Beginner Workout",
+    "restIntervals": "60–90 seconds",
+    "intensity": "Select a weight that allows you to complete the prescribed reps while leaving about 2 solid reps in the tank.",
+    "description": "A full body strength training program focusing on main lifts and accessory exercises, split into three full body sessions per week.",
+    "days": [
+      {
+        "name": "Day 1 - Full Body",
+        "warmups": [
+          {
+            "exerciseName": "Jumping Jacks",
+            "sets": 1,
+            "reps": {
+              "min": 30,
+              "max": 30,
+              "unit": "seconds"
+            },
+            "category": ["warmup"],
+            "subCategory": ["full-body"]
+          },
+          {
+            "exerciseName": "Dynamic Leg Swings",
+            "sets": 1,
+            "reps": {
+              "min": 10,
+              "max": 10
+            },
+            "category": ["warmup"],
+            "subCategory": ["legs"]
+          }
+        ],
+        "exercises": [
+          {
+            "exerciseName": "Barbell Back Squats",
+            "sets": 3,
+            "reps": {
+              "min": 5,
+              "max": 5
+            },
+            "category": ["legs"],
+            "subCategory": ["quadriceps", "glutes"]
+          },
+          {
+            "exerciseName": "Flat Barbell Bench Press",
+            "sets": 3,
+            "reps": {
+              "min": 5,
+              "max": 5
+            },
+            "category": ["chest"],
+            "subCategory": ["pectorals"]
+          },
+          {
+            "exerciseName": "Seated Cable Rows",
+            "sets": 3,
+            "reps": {
+              "min": 6,
+              "max": 8
+            },
+            "category": ["back"],
+            "subCategory": ["middle back"]
+          },
+          {
+            "exerciseName": "Seated Dumbbell Shoulder Press",
+            "sets": 3,
+            "reps": {
+              "min": 6,
+              "max": 8
+            },
+            "category": ["shoulders"],
+            "subCategory": ["deltoids"]
+          },
+          {
+            "exerciseName": "Cable Rope Triceps Pushdowns",
+            "sets": 3,
+            "reps": {
+              "min": 8,
+              "max": 10
+            },
+            "category": ["triceps"],
+            "subCategory": ["triceps"]
+          },
+          {
+            "exerciseName": "Lateral Raises",
+            "sets": 3,
+            "reps": {
+              "min": 10,
+              "max": 12
+            },
+            "category": ["shoulders"],
+            "subCategory": ["lateral deltoids"]
+          },
+          {
+            "exerciseName": "Seated Calf Raises",
+            "sets": 3,
+            "reps": {
+              "min": 10,
+              "max": 12
+            },
+            "category": ["calves"],
+            "subCategory": ["calves"]
+          },
+          {
+            "exerciseName": "Planks",
+            "sets": 3,
+            "reps": {
+              "min": 30,
+              "max": 30,
+              "unit": "seconds"
+            },
+            "category": ["core"],
+            "subCategory": ["abs"]
+          }
+        ]
+      },
+      {
+        "name": "Day 2 - Full Body",
+        "warmups": [
+          {
+            "exerciseName": "Arm Circles",
+            "sets": 1,
+            "reps": {
+              "min": 20,
+              "max": 20
+            },
+            "category": ["warmup"],
+            "subCategory": ["shoulders"]
+          },
+          {
+            "exerciseName": "Dynamic Stretching",
+            "sets": 1,
+            "reps": {
+              "min": 20,
+              "max": 20
+            },
+            "category": ["warmup"],
+            "subCategory": ["full-body"]
+          }
+        ],
+        "exercises": [
+          {
+            "exerciseName": "Barbell or Trap Bar Deadlifts",
+            "sets": 3,
+            "reps": {
+              "min": 5,
+              "max": 5
+            },
+            "category": ["back", "hamstrings"],
+            "subCategory": ["hamstrings", "lower back"]
+          },
+          {
+            "exerciseName": "Pullups or Lat Pulldowns",
+            "sets": 3,
+            "reps": {
+              "min": 6,
+              "max": 8
+            },
+            "category": ["back"],
+            "subCategory": ["lats"]
+          },
+          {
+            "exerciseName": "Barbell or Dumbbell Incline Press",
+            "sets": 3,
+            "reps": {
+              "min": 6,
+              "max": 8
+            },
+            "category": ["chest"],
+            "subCategory": ["upper chest"]
+          },
+          {
+            "exerciseName": "Machine Shoulder Press",
+            "sets": 3,
+            "reps": {
+              "min": 6,
+              "max": 8
+            },
+            "category": ["shoulders"],
+            "subCategory": ["deltoids"]
+          },
+          {
+            "exerciseName": "Barbell or Dumbbell Biceps Curls",
+            "sets": 3,
+            "reps": {
+              "min": 8,
+              "max": 10
+            },
+            "category": ["biceps"],
+            "subCategory": ["biceps"]
+          },
+          {
+            "exerciseName": "Reverse Machine Fly",
+            "sets": 3,
+            "reps": {
+              "min": 10,
+              "max": 12
+            },
+            "category": ["shoulders"],
+            "subCategory": ["posterior deltoids"]
+          },
+          {
+            "exerciseName": "Standing Calf Raises",
+            "sets": 3,
+            "reps": {
+              "min": 10,
+              "max": 12
+            },
+            "category": ["calves"],
+            "subCategory": ["calves"]
+          }
+        ]
+      },
+      {
+        "name": "Day 3 - Full Body",
+        "warmups": [
+          {
+            "exerciseName": "Light Jog or High Knees",
+            "sets": 1,
+            "reps": {
+              "min": 30,
+              "max": 30,
+              "unit": "seconds"
+            },
+            "category": ["warmup"],
+            "subCategory": ["cardio"]
+          },
+          {
+            "exerciseName": "Dynamic Leg Swings",
+            "sets": 1,
+            "reps": {
+              "min": 10,
+              "max": 10
+            },
+            "category": ["warmup"],
+            "subCategory": ["legs"]
+          }
+        ],
+        "exercises": [
+          {
+            "exerciseName": "Leg Press",
+            "sets": 3,
+            "reps": {
+              "min": 5,
+              "max": 5
+            },
+            "category": ["legs"],
+            "subCategory": ["quadriceps"]
+          },
+          {
+            "exerciseName": "T-Bar Rows",
+            "sets": 3,
+            "reps": {
+              "min": 6,
+              "max": 8
+            },
+            "category": ["back"],
+            "subCategory": ["middle back"]
+          },
+          {
+            "exerciseName": "Machine or Dumbbell Chest Fly",
+            "sets": 3,
+            "reps": {
+              "min": 6,
+              "max": 8
+            },
+            "category": ["chest"],
+            "subCategory": ["pectorals"]
+          },
+          {
+            "exerciseName": "One-Arm Dumbbell Shoulder Press",
+            "sets": 3,
+            "reps": {
+              "min": 6,
+              "max": 8
+            },
+            "category": ["shoulders"],
+            "subCategory": ["deltoids"]
+          },
+          {
+            "exerciseName": "Dumbbell or Machine Triceps Extensions",
+            "sets": 3,
+            "reps": {
+              "min": 8,
+              "max": 10
+            },
+            "category": ["triceps"],
+            "subCategory": ["triceps"]
+          },
+          {
+            "exerciseName": "Cable or Dumbbell Front Raises",
+            "sets": 3,
+            "reps": {
+              "min": 10,
+              "max": 12
+            },
+            "category": ["shoulders"],
+            "subCategory": ["anterior deltoids"]
+          },
+          {
+            "exerciseName": "Seated Calf Raises",
+            "sets": 3,
+            "reps": {
+              "min": 10,
+              "max": 12
+            },
+            "category": ["calves"],
+            "subCategory": ["calves"]
+          },
+          {
+            "exerciseName": "Decline Crunches",
+            "sets": 3,
+            "reps": {
+              "min": 10,
+              "max": 12
+            },
+            "category": ["core"],
+            "subCategory": ["abs"]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Intermediate Workout",
+    "restIntervals": "90–180 seconds",
+    "intensity": "Select a weight that allows you to complete the prescribed reps while leaving about 2 solid reps in the tank. To increase intensity, go to your limit on the last set.",
+    "description": "An intermediate workout split over 4 days focusing on upper and lower body movements with compound and accessory exercises.",
+    "days": [
+      {
+        "name": "Day 1 - Upper Body",
+        "warmups": [
+          {
+            "exerciseName": "Arm Circles",
+            "sets": 1,
+            "reps": {
+              "min": 20,
+              "max": 20
+            },
+            "category": ["warmup"],
+            "subCategory": ["shoulders"]
+          },
+          {
+            "exerciseName": "Dynamic Chest Opener",
+            "sets": 1,
+            "reps": {
+              "min": 20,
+              "max": 20
+            },
+            "category": ["warmup"],
+            "subCategory": ["chest"]
+          }
+        ],
+        "exercises": [
+          {
+            "exerciseName": "Flat Barbell Bench Press",
+            "sets": 4,
+            "reps": {
+              "min": 6,
+              "max": 8
+            },
+            "category": ["chest"],
+            "subCategory": ["pectorals"]
+          },
+          {
+            "exerciseName": "Bent-Over Barbell Rows",
+            "sets": 3,
+            "reps": {
+              "min": 6,
+              "max": 8
+            },
+            "category": ["back"],
+            "subCategory": ["upper back"]
+          },
+          {
+            "exerciseName": "Seated Dumbbell Press",
+            "sets": 3,
+            "reps": {
+              "min": 8,
+              "max": 10
+            },
+            "category": ["shoulders"],
+            "subCategory": ["deltoids"]
+          },
+          {
+            "exerciseName": "Dips",
+            "sets": 3,
+            "reps": {
+              "min": 8,
+              "max": 10
+            },
+            "category": ["chest", "triceps"],
+            "subCategory": ["pectorals", "triceps"]
+          },
+          {
+            "exerciseName": "Pullups or Lat Pulldowns",
+            "sets": 3,
+            "reps": {
+              "min": 8,
+              "max": 10
+            },
+            "category": ["back"],
+            "subCategory": ["lats"]
+          },
+          {
+            "exerciseName": "Lying Dumbbell Triceps Extensions",
+            "sets": 3,
+            "reps": {
+              "min": 10,
+              "max": 12
+            },
+            "category": ["triceps", "chest"],
+            "subCategory": ["triceps", "pectorals"]
+          },
+          {
+            "exerciseName": "Incline Dumbbell Curls",
+            "sets": 3,
+            "reps": {
+              "min": 10,
+              "max": 12
+            },
+            "category": ["biceps"],
+            "subCategory": ["biceps"]
+          }
+        ]
+      },
+      {
+        "name": "Day 2 - Lower Body",
+        "warmups": [
+          {
+            "exerciseName": "Dynamic Leg Swings",
+            "sets": 1,
+            "reps": {
+              "min": 10,
+              "max": 10
+            },
+            "category": ["warmup"],
+            "subCategory": ["legs"]
+          },
+          {
+            "exerciseName": "Hip Circles",
+            "sets": 1,
+            "reps": {
+              "min": 10,
+              "max": 10
+            },
+            "category": ["warmup"],
+            "subCategory": ["hips"]
+          }
+        ],
+        "exercises": [
+          {
+            "exerciseName": "Barbell Back Squats",
+            "sets": 4,
+            "reps": {
+              "min": 6,
+              "max": 8
+            },
+            "category": ["legs"],
+            "subCategory": ["quadriceps", "glutes"]
+          },
+          {
+            "exerciseName": "Leg Press",
+            "sets": 3,
+            "reps": {
+              "min": 8,
+              "max": 10
+            },
+            "category": ["legs"],
+            "subCategory": ["quadriceps"]
+          },
+          {
+            "exerciseName": "Seated Leg Extensions",
+            "sets": 3,
+            "reps": {
+              "min": 10,
+              "max": 12
+            },
+            "category": ["legs"],
+            "subCategory": ["quadriceps"]
+          },
+          {
+            "exerciseName": "Dumbbell or Barbell Walking Lunges",
+            "sets": 3,
+            "reps": {
+              "min": 10,
+              "max": 12
+            },
+            "category": ["legs"],
+            "subCategory": ["quadriceps", "glutes"]
+          },
+          {
+            "exerciseName": "Calf Press on Leg Press",
+            "sets": 4,
+            "reps": {
+              "min": 12,
+              "max": 15
+            },
+            "category": ["calves"],
+            "subCategory": ["calves"]
+          },
+          {
+            "exerciseName": "Decline Crunches",
+            "sets": 4,
+            "reps": {
+              "min": 12,
+              "max": 15
+            },
+            "category": ["core"],
+            "subCategory": ["abs"]
+          }
+        ]
+      },
+      {
+        "name": "Day 3 - Upper Body",
+        "warmups": [
+          {
+            "exerciseName": "Band Pull-Aparts",
+            "sets": 1,
+            "reps": {
+              "min": 15,
+              "max": 15
+            },
+            "category": ["warmup"],
+            "subCategory": ["back"]
+          },
+          {
+            "exerciseName": "Dynamic Chest Stretch",
+            "sets": 1,
+            "reps": {
+              "min": 15,
+              "max": 15
+            },
+            "category": ["warmup"],
+            "subCategory": ["chest"]
+          }
+        ],
+        "exercises": [
+          {
+            "exerciseName": "Overhead Press",
+            "sets": 4,
+            "reps": {
+              "min": 6,
+              "max": 8
+            },
+            "category": ["shoulders"],
+            "subCategory": ["deltoids"]
+          },
+          {
+            "exerciseName": "Incline Dumbbell Bench Press",
+            "sets": 3,
+            "reps": {
+              "min": 8,
+              "max": 10
+            },
+            "category": ["chest"],
+            "subCategory": ["upper chest"]
+          },
+          {
+            "exerciseName": "One-Arm Cable Rows",
+            "sets": 3,
+            "reps": {
+              "min": 10,
+              "max": 12
+            },
+            "category": ["back"],
+            "subCategory": ["middle back"]
+          },
+          {
+            "exerciseName": "Cable Lateral Raises",
+            "sets": 3,
+            "reps": {
+              "min": 10,
+              "max": 12
+            },
+            "category": ["shoulders"],
+            "subCategory": ["lateral deltoids"]
+          },
+          {
+            "exerciseName": "Face Pulls",
+            "sets": 3,
+            "reps": {
+              "min": 10,
+              "max": 12
+            },
+            "category": ["shoulders", "traps"],
+            "subCategory": ["rear deltoids", "traps"]
+          },
+          {
+            "exerciseName": "Dumbbell Shrugs",
+            "sets": 3,
+            "reps": {
+              "min": 10,
+              "max": 12
+            },
+            "category": ["traps"],
+            "subCategory": ["traps"]
+          },
+          {
+            "exerciseName": "Seated Overhead Triceps Extensions",
+            "sets": 3,
+            "reps": {
+              "min": 10,
+              "max": 12
+            },
+            "category": ["triceps"],
+            "subCategory": ["triceps"]
+          },
+          {
+            "exerciseName": "Machine Preacher Curls",
+            "sets": 3,
+            "reps": {
+              "min": 12,
+              "max": 15
+            },
+            "category": ["biceps"],
+            "subCategory": ["biceps"]
+          }
+        ]
+      },
+      {
+        "name": "Day 4 - Lower Body",
+        "warmups": [
+          {
+            "exerciseName": "Dynamic Leg Swings",
+            "sets": 1,
+            "reps": {
+              "min": 10,
+              "max": 10
+            },
+            "category": ["warmup"],
+            "subCategory": ["legs"]
+          },
+          {
+            "exerciseName": "Hip Circles",
+            "sets": 1,
+            "reps": {
+              "min": 10,
+              "max": 10
+            },
+            "category": ["warmup"],
+            "subCategory": ["hips"]
+          }
+        ],
+        "exercises": [
+          {
+            "exerciseName": "Barbell Deadlift",
+            "sets": 4,
+            "reps": {
+              "min": 6,
+              "max": 6
+            },
+            "category": ["back", "hamstrings"],
+            "subCategory": ["lower back", "hamstrings"]
+          },
+          {
+            "exerciseName": "Barbell Hip Thrusts",
+            "sets": 3,
+            "reps": {
+              "min": 8,
+              "max": 10
+            },
+            "category": ["glutes"],
+            "subCategory": ["glutes"]
+          },
+          {
+            "exerciseName": "Dumbbell Romanian Deadlift",
+            "sets": 3,
+            "reps": {
+              "min": 10,
+              "max": 12
+            },
+            "category": ["hamstrings"],
+            "subCategory": ["hamstrings"]
+          },
+          {
+            "exerciseName": "Lying Leg Curls",
+            "sets": 3,
+            "reps": {
+              "min": 10,
+              "max": 12
+            },
+            "category": ["hamstrings"],
+            "subCategory": ["hamstrings"]
+          },
+          {
+            "exerciseName": "Seated Calf Raises",
+            "sets": 4,
+            "reps": {
+              "min": 12,
+              "max": 15
+            },
+            "category": ["calves"],
+            "subCategory": ["calves"]
+          },
+          {
+            "exerciseName": "Leg Raises on Roman Chair",
+            "sets": 4,
+            "reps": {
+              "min": 12,
+              "max": 15
+            },
+            "category": ["core"],
+            "subCategory": ["abs"]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Advanced Workout",
+    "restIntervals": "90–180 seconds",
+    "intensity": "Select a weight that allows you to complete the prescribed reps while leaving about two solid reps in the tank. To increase intensity, go to failure on the last set.",
+    "supersetInstructions": "Complete the initial set of the first movement immediately followed by the second movement. Repeat until all designated reps and sets are complete.",
+    "description": "An advanced, multi-day training program utilizing compound movements and supersets to maximize muscle engagement and strength gains.",
+    "days": [
+      {
+        "name": "Pull A",
+        "warmups": [
+          {
+            "exerciseName": "Dynamic Arm Circles",
+            "sets": 1,
+            "reps": {
+              "min": 20,
+              "max": 20
+            },
+            "category": ["warmup"],
+            "subCategory": ["shoulders", "upper back"]
+          },
+          {
+            "exerciseName": "Band Pull-Aparts",
+            "sets": 1,
+            "reps": {
+              "min": 15,
+              "max": 15
+            },
+            "category": ["warmup"],
+            "subCategory": ["back"]
+          }
+        ],
+        "exercises": [
+          {
+            "exerciseName": "Barbell Deadlift",
+            "sets": 5,
+            "reps": {
+              "min": 5,
+              "max": 5
+            },
+            "category": ["back", "hamstrings"],
+            "subCategory": ["lower back", "hamstrings"]
+          },
+          {
+            "exerciseName": "Pullups or Lat Pulldowns",
+            "sets": 3,
+            "reps": {
+              "min": 10,
+              "max": 12
+            },
+            "category": ["back"],
+            "subCategory": ["lats"]
+          },
+          {
+            "exerciseName": "T-Bar Rows or Seated Cable Rows",
+            "sets": 3,
+            "reps": {
+              "min": 10,
+              "max": 12
+            },
+            "category": ["back"],
+            "subCategory": ["middle back"]
+          },
+          {
+            "exerciseName": "Face Pulls",
+            "sets": 4,
+            "reps": {
+              "min": 12,
+              "max": 15
+            },
+            "category": ["shoulders", "traps"],
+            "subCategory": ["rear deltoids", "traps"]
+          },
+          {
+            "exerciseName": "Standing Cable Curls",
+            "sets": 4,
+            "reps": {
+              "min": 10,
+              "max": 12
+            },
+            "category": ["biceps"],
+            "subCategory": ["biceps"]
+          }
+        ],
+        "supersets": [
+          {
+            "group": [
+              {
+                "exerciseName": "Hammer Curls",
+                "sets": 4,
+                "reps": {
+                  "min": 10,
+                  "max": 12
+                },
+                "category": ["biceps"],
+                "subCategory": ["biceps"]
+              },
+              {
+                "exerciseName": "Dumbbell Shrugs",
+                "sets": 4,
+                "reps": {
+                  "min": 10,
+                  "max": 12
+                },
+                "category": ["traps"],
+                "subCategory": ["traps"]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Push A",
+        "warmups": [
+          {
+            "exerciseName": "Dynamic Chest Opener",
+            "sets": 1,
+            "reps": {
+              "min": 20,
+              "max": 20
+            },
+            "category": ["warmup"],
+            "subCategory": ["chest"]
+          },
+          {
+            "exerciseName": "Arm Circles",
+            "sets": 1,
+            "reps": {
+              "min": 20,
+              "max": 20
+            },
+            "category": ["warmup"],
+            "subCategory": ["shoulders"]
+          }
+        ],
+        "exercises": [
+          {
+            "exerciseName": "Flat Barbell Bench Press",
+            "sets": 5,
+            "reps": {
+              "min": 5,
+              "max": 5
+            },
+            "category": ["chest"],
+            "subCategory": ["pectorals"]
+          },
+          {
+            "exerciseName": "Seated Dumbbell Press",
+            "sets": 3,
+            "reps": {
+              "min": 6,
+              "max": 8
+            },
+            "category": ["shoulders"],
+            "subCategory": ["deltoids"]
+          },
+          {
+            "exerciseName": "Incline Dumbbell Bench Press",
+            "sets": 3,
+            "reps": {
+              "min": 10,
+              "max": 12
+            },
+            "category": ["chest"],
+            "subCategory": ["upper chest"]
+          },
+          {
+            "exerciseName": "Cable Crossovers",
+            "sets": 4,
+            "reps": {
+              "min": 10,
+              "max": 12
+            },
+            "category": ["chest"],
+            "subCategory": ["pectorals"]
+          }
+        ],
+        "supersets": [
+          {
+            "group": [
+              {
+                "exerciseName": "Triceps Pushdowns",
+                "sets": 4,
+                "reps": {
+                  "min": 10,
+                  "max": 12
+                },
+                "category": ["triceps"],
+                "subCategory": ["triceps"]
+              },
+              {
+                "exerciseName": "Lateral Raises",
+                "sets": 4,
+                "reps": {
+                  "min": 10,
+                  "max": 12
+                },
+                "category": ["shoulders"],
+                "subCategory": ["lateral deltoids"]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Legs A",
+        "warmups": [
+          {
+            "exerciseName": "Dynamic Leg Swings",
+            "sets": 1,
+            "reps": {
+              "min": 10,
+              "max": 10
+            },
+            "category": ["warmup"],
+            "subCategory": ["legs"]
+          },
+          {
+            "exerciseName": "Hip Circles",
+            "sets": 1,
+            "reps": {
+              "min": 10,
+              "max": 10
+            },
+            "category": ["warmup"],
+            "subCategory": ["hips"]
+          }
+        ],
+        "exercises": [
+          {
+            "exerciseName": "Barbell Back Squats",
+            "sets": 5,
+            "reps": {
+              "min": 5,
+              "max": 5
+            },
+            "category": ["legs"],
+            "subCategory": ["quadriceps", "glutes"]
+          },
+          {
+            "exerciseName": "Dumbbell Romanian Deadlift",
+            "sets": 3,
+            "reps": {
+              "min": 6,
+              "max": 8
+            },
+            "category": ["hamstrings"],
+            "subCategory": ["hamstrings"]
+          },
+          {
+            "exerciseName": "Leg Press",
+            "sets": 3,
+            "reps": {
+              "min": 8,
+              "max": 10
+            },
+            "category": ["legs"],
+            "subCategory": ["quadriceps"]
+          },
+          {
+            "exerciseName": "Lying Leg Curls",
+            "sets": 4,
+            "reps": {
+              "min": 10,
+              "max": 12
+            },
+            "category": ["hamstrings"],
+            "subCategory": ["hamstrings"]
+          },
+          {
+            "exerciseName": "Seated Calf Raises",
+            "sets": 4,
+            "reps": {
+              "min": 12,
+              "max": 15
+            },
+            "category": ["calves"],
+            "subCategory": ["calves"]
+          },
+          {
+            "exerciseName": "Decline Crunches",
+            "sets": 4,
+            "reps": {
+              "min": 12,
+              "max": 15
+            },
+            "category": ["core"],
+            "subCategory": ["abs"]
+          }
+        ]
+      },
+      {
+        "name": "Pull B",
+        "warmups": [
+          {
+            "exerciseName": "Band Pull-Aparts",
+            "sets": 1,
+            "reps": {
+              "min": 15,
+              "max": 15
+            },
+            "category": ["warmup"],
+            "subCategory": ["back"]
+          },
+          {
+            "exerciseName": "Light Cardio (Rowing or Jump Rope)",
+            "sets": 1,
+            "reps": {
+              "min": 30,
+              "max": 30,
+              "unit": "seconds"
+            },
+            "category": ["warmup"],
+            "subCategory": ["cardio"]
+          }
+        ],
+        "exercises": [
+          {
+            "exerciseName": "Bent-Over Barbell Rows",
+            "sets": 3,
+            "reps": {
+              "min": 6,
+              "max": 8
+            },
+            "category": ["back"],
+            "subCategory": ["upper back"]
+          },
+          {
+            "exerciseName": "Weighted Pull-Ups",
+            "sets": 3,
+            "reps": {
+              "min": 8,
+              "max": 10
+            },
+            "category": ["back"],
+            "subCategory": ["lats"]
+          },
+          {
+            "exerciseName": "One-Arm Rows",
+            "sets": 3,
+            "reps": {
+              "min": 8,
+              "max": 10
+            },
+            "category": ["back"],
+            "subCategory": ["middle back"]
+          },
+          {
+            "exerciseName": "Barbell Shrugs",
+            "sets": 4,
+            "reps": {
+              "min": 10,
+              "max": 12
+            },
+            "category": ["traps"],
+            "subCategory": ["traps"]
+          },
+          {
+            "exerciseName": "Standing Dumbbell Curls",
+            "sets": 4,
+            "reps": {
+              "min": 10,
+              "max": 12
+            },
+            "category": ["biceps"],
+            "subCategory": ["biceps"]
+          }
+        ],
+        "supersets": [
+          {
+            "group": [
+              {
+                "exerciseName": "Hyperextensions",
+                "sets": 4,
+                "reps": {
+                  "min": 10,
+                  "max": 12
+                },
+                "category": ["lower back"],
+                "subCategory": ["erector spinae"]
+              },
+              {
+                "exerciseName": "Machine Preacher Curls",
+                "sets": 4,
+                "reps": {
+                  "min": 10,
+                  "max": 12
+                },
+                "category": ["biceps"],
+                "subCategory": ["biceps"]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Push B",
+        "warmups": [
+          {
+            "exerciseName": "Dynamic Chest Opener",
+            "sets": 1,
+            "reps": {
+              "min": 20,
+              "max": 20
+            },
+            "category": ["warmup"],
+            "subCategory": ["chest"]
+          },
+          {
+            "exerciseName": "Arm Circles",
+            "sets": 1,
+            "reps": {
+              "min": 20,
+              "max": 20
+            },
+            "category": ["warmup"],
+            "subCategory": ["shoulders"]
+          }
+        ],
+        "exercises": [
+          {
+            "exerciseName": "Overhead Press",
+            "sets": 5,
+            "reps": {
+              "min": 5,
+              "max": 5
+            },
+            "category": ["shoulders"],
+            "subCategory": ["deltoids"]
+          },
+          {
+            "exerciseName": "Dumbbell Bench Press (Incline or Flat)",
+            "sets": 3,
+            "reps": {
+              "min": 8,
+              "max": 10
+            },
+            "category": ["chest"],
+            "subCategory": ["pectorals"]
+          },
+          {
+            "exerciseName": "Dips (Weighted if needed)",
+            "sets": 4,
+            "reps": {
+              "min": 10,
+              "max": 12
+            },
+            "category": ["chest", "triceps"],
+            "subCategory": ["pectorals", "triceps"]
+          },
+          {
+            "exerciseName": "Machine Fly",
+            "sets": 4,
+            "reps": {
+              "min": 10,
+              "max": 12
+            },
+            "category": ["chest"],
+            "subCategory": ["pectorals"]
+          },
+          {
+            "exerciseName": "Overhead Extensions with Rope",
+            "sets": 4,
+            "reps": {
+              "min": 10,
+              "max": 12
+            },
+            "category": ["triceps"],
+            "subCategory": ["triceps"]
+          }
+        ],
+        "supersets": [
+          {
+            "group": [
+              {
+                "exerciseName": "Single-Arm Cable Lateral Raises",
+                "sets": 4,
+                "reps": {
+                  "min": 10,
+                  "max": 12
+                },
+                "category": ["shoulders"],
+                "subCategory": ["lateral deltoids"]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Legs B",
+        "warmups": [
+          {
+            "exerciseName": "Dynamic Leg Swings",
+            "sets": 1,
+            "reps": {
+              "min": 10,
+              "max": 10
+            },
+            "category": ["warmup"],
+            "subCategory": ["legs"]
+          },
+          {
+            "exerciseName": "Hip Circles",
+            "sets": 1,
+            "reps": {
+              "min": 10,
+              "max": 10
+            },
+            "category": ["warmup"],
+            "subCategory": ["hips"]
+          }
+        ],
+        "exercises": [
+          {
+            "exerciseName": "Barbell Front Squats",
+            "sets": 5,
+            "reps": {
+              "min": 5,
+              "max": 5
+            },
+            "category": ["legs"],
+            "subCategory": ["quadriceps"]
+          },
+          {
+            "exerciseName": "Glute Ham Raises",
+            "sets": 3,
+            "reps": {
+              "min": 8,
+              "max": 10
+            },
+            "category": ["hamstrings"],
+            "subCategory": ["hamstrings"]
+          },
+          {
+            "exerciseName": "Walking Dumbbell Lunges (per leg)",
+            "sets": 3,
+            "reps": {
+              "min": 10,
+              "max": 12
+            },
+            "category": ["legs"],
+            "subCategory": ["quadriceps", "glutes"]
+          },
+          {
+            "exerciseName": "Hanging Leg Raises",
+            "sets": 4,
+            "reps": {
+              "min": 12,
+              "max": 15
+            },
+            "category": ["core"],
+            "subCategory": ["abs"]
+          }
+        ],
+        "supersets": [
+          {
+            "group": [
+              {
+                "exerciseName": "Seated Leg Extensions",
+                "sets": 4,
+                "reps": {
+                  "min": 10,
+                  "max": 12
+                },
+                "category": ["quadriceps"],
+                "subCategory": ["quadriceps"]
+              },
+              {
+                "exerciseName": "Standing Calf Raises",
+                "sets": 4,
+                "reps": {
+                  "min": 12,
+                  "max": 15
+                },
+                "category": ["calves"],
+                "subCategory": ["calves"]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

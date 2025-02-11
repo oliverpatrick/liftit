@@ -1,0 +1,1886 @@
+[
+  {
+    "id": 1,
+    "name": "5 Day Beginner Hybrid Calisthenics & Equipment Workout",
+    "description": "A beginner-friendly hybrid workout that blends bodyweight and equipment-based exercises to develop strength, endurance, and mobility. Ideal for those starting their fitness journey.",
+    "isGlobal": true,
+    "createdById": null,
+    "createdAt": "2025-02-08T11:58:58.392Z",
+    "createdBy": null,
+    "users": [],
+    "workouts": [
+      {
+        "id": 2,
+        "workoutPlanId": 3,
+        "name": "Day One - Upper Body (Push) & Core",
+        "dayOfWeek": 1,
+        "createdAt": "2025-02-08T11:58:58.409Z",
+        "exercises": [
+          {
+            "id": 2,
+            "workoutId": 2,
+            "exerciseId": 2,
+            "defaultSets": 1,
+            "defaultReps": 30,
+            "defaultUnit": 1,
+            "defaultWeight": "0",
+            "orderIndex": 1,
+            "exercise": {
+              "id": 2,
+              "name": "Dynamic Arm Circles",
+              "category": "warmup",
+              "muscleGroup": "shoulders",
+              "equipment": "Bodyweight",
+              "type": "Warmup",
+              "difficulty": 1
+            }
+          },
+          {
+            "id": 3,
+            "workoutId": 2,
+            "exerciseId": 3,
+            "defaultSets": 1,
+            "defaultReps": 30,
+            "defaultUnit": 1,
+            "defaultWeight": "0",
+            "orderIndex": 2,
+            "exercise": {
+              "id": 3,
+              "name": "Dynamic Chest Opener",
+              "category": "warmup",
+              "muscleGroup": "chest",
+              "equipment": "Bodyweight",
+              "type": "Warmup",
+              "difficulty": 1
+            }
+          },
+          {
+            "id": 4,
+            "workoutId": 2,
+            "exerciseId": 4,
+            "defaultSets": 3,
+            "defaultReps": 10,
+            "defaultUnit": 1,
+            "defaultWeight": "0",
+            "orderIndex": 3,
+            "exercise": {
+              "id": 4,
+              "name": "Push-Ups",
+              "category": "push",
+              "muscleGroup": "chest",
+              "equipment": "Barbell",
+              "type": "Compound",
+              "difficulty": 3
+            }
+          },
+          {
+            "id": 5,
+            "workoutId": 2,
+            "exerciseId": 5,
+            "defaultSets": 3,
+            "defaultReps": 6,
+            "defaultUnit": 1,
+            "defaultWeight": "0",
+            "orderIndex": 4,
+            "exercise": {
+              "id": 5,
+              "name": "Barbell Chest Press",
+              "category": "push",
+              "muscleGroup": "chest",
+              "equipment": "Barbell",
+              "type": "Compound",
+              "difficulty": 3
+            }
+          },
+          {
+            "id": 6,
+            "workoutId": 2,
+            "exerciseId": 6,
+            "defaultSets": 3,
+            "defaultReps": 10,
+            "defaultUnit": 1,
+            "defaultWeight": "0",
+            "orderIndex": 5,
+            "exercise": {
+              "id": 6,
+              "name": "Dumbbell Shoulder Press",
+              "category": "push",
+              "muscleGroup": "shoulders",
+              "equipment": "Barbell",
+              "type": "Compound",
+              "difficulty": 3
+            }
+          },
+          {
+            "id": 7,
+            "workoutId": 2,
+            "exerciseId": 7,
+            "defaultSets": 3,
+            "defaultReps": 30,
+            "defaultUnit": 1,
+            "defaultWeight": "0",
+            "orderIndex": 6,
+            "exercise": {
+              "id": 7,
+              "name": "Plank",
+              "category": "core",
+              "muscleGroup": "abs",
+              "equipment": "Barbell",
+              "type": "Compound",
+              "difficulty": 3
+            }
+          },
+          {
+            "id": 8,
+            "workoutId": 2,
+            "exerciseId": 8,
+            "defaultSets": 3,
+            "defaultReps": 10,
+            "defaultUnit": 1,
+            "defaultWeight": "0",
+            "orderIndex": 7,
+            "exercise": {
+              "id": 8,
+              "name": "Chest Flys",
+              "category": "push",
+              "muscleGroup": "chest",
+              "equipment": "Barbell",
+              "type": "Compound",
+              "difficulty": 3
+            }
+          },
+          {
+            "id": 9,
+            "workoutId": 2,
+            "exerciseId": 9,
+            "defaultSets": 3,
+            "defaultReps": 10,
+            "defaultUnit": 1,
+            "defaultWeight": "0",
+            "orderIndex": 8,
+            "exercise": {
+              "id": 9,
+              "name": "Tricep Pulldowns",
+              "category": "push",
+              "muscleGroup": "triceps",
+              "equipment": "Barbell",
+              "type": "Compound",
+              "difficulty": 3
+            }
+          },
+          {
+            "id": 10,
+            "workoutId": 2,
+            "exerciseId": 10,
+            "defaultSets": 3,
+            "defaultReps": 10,
+            "defaultUnit": 1,
+            "defaultWeight": "0",
+            "orderIndex": 9,
+            "exercise": {
+              "id": 10,
+              "name": "Diamond Push-Ups",
+              "category": "push",
+              "muscleGroup": "triceps, chest",
+              "equipment": "Barbell",
+              "type": "Compound",
+              "difficulty": 3
+            }
+          },
+          {
+            "id": 11,
+            "workoutId": 2,
+            "exerciseId": 11,
+            "defaultSets": 3,
+            "defaultReps": 10,
+            "defaultUnit": 1,
+            "defaultWeight": "0",
+            "orderIndex": 10,
+            "exercise": {
+              "id": 11,
+              "name": "Pike Push-Ups",
+              "category": "push",
+              "muscleGroup": "shoulders, chest",
+              "equipment": "Barbell",
+              "type": "Compound",
+              "difficulty": 3
+            }
+          }
+        ],
+        "exerciseLogs": []
+      },
+      {
+        "id": 3,
+        "workoutPlanId": 3,
+        "name": "Day Two - Lower Body",
+        "dayOfWeek": 2,
+        "createdAt": "2025-02-08T11:58:58.409Z",
+        "exercises": [
+          {
+            "id": 12,
+            "workoutId": 3,
+            "exerciseId": 12,
+            "defaultSets": 1,
+            "defaultReps": 10,
+            "defaultUnit": 1,
+            "defaultWeight": "0",
+            "orderIndex": 1,
+            "exercise": {
+              "id": 12,
+              "name": "Dynamic Leg Swings",
+              "category": "warmup",
+              "muscleGroup": "legs",
+              "equipment": "Bodyweight",
+              "type": "Warmup",
+              "difficulty": 1
+            }
+          },
+          {
+            "id": 13,
+            "workoutId": 3,
+            "exerciseId": 13,
+            "defaultSets": 1,
+            "defaultReps": 10,
+            "defaultUnit": 1,
+            "defaultWeight": "0",
+            "orderIndex": 2,
+            "exercise": {
+              "id": 13,
+              "name": "Hip Circles",
+              "category": "warmup",
+              "muscleGroup": "hips",
+              "equipment": "Bodyweight",
+              "type": "Warmup",
+              "difficulty": 1
+            }
+          },
+          {
+            "id": 14,
+            "workoutId": 3,
+            "exerciseId": 14,
+            "defaultSets": 3,
+            "defaultReps": 15,
+            "defaultUnit": 1,
+            "defaultWeight": "0",
+            "orderIndex": 3,
+            "exercise": {
+              "id": 14,
+              "name": "Bodyweight Squats",
+              "category": "legs",
+              "muscleGroup": "quads",
+              "equipment": "Bodyweight",
+              "type": "Compound",
+              "difficulty": 3
+            }
+          },
+          {
+            "id": 15,
+            "workoutId": 3,
+            "exerciseId": 15,
+            "defaultSets": 3,
+            "defaultReps": 10,
+            "defaultUnit": 1,
+            "defaultWeight": "0",
+            "orderIndex": 4,
+            "exercise": {
+              "id": 15,
+              "name": "Walking Lunges",
+              "category": "legs",
+              "muscleGroup": "glutes, quads",
+              "equipment": "Bodyweight",
+              "type": "Compound",
+              "difficulty": 3
+            }
+          },
+          {
+            "id": 16,
+            "workoutId": 3,
+            "exerciseId": 16,
+            "defaultSets": 3,
+            "defaultReps": 10,
+            "defaultUnit": 1,
+            "defaultWeight": "0",
+            "orderIndex": 5,
+            "exercise": {
+              "id": 16,
+              "name": "Dumbbell Deadlifts",
+              "category": "pull",
+              "muscleGroup": "hamstrings, lower back",
+              "equipment": "Dumbbell",
+              "type": "Compound",
+              "difficulty": 3
+            }
+          },
+          {
+            "id": 17,
+            "workoutId": 3,
+            "exerciseId": 17,
+            "defaultSets": 3,
+            "defaultReps": 10,
+            "defaultUnit": 1,
+            "defaultWeight": "0",
+            "orderIndex": 6,
+            "exercise": {
+              "id": 17,
+              "name": "Bulgarian Split Squats",
+              "category": "legs",
+              "muscleGroup": "quads, glutes",
+              "equipment": "Bodyweight",
+              "type": "Compound",
+              "difficulty": 3
+            }
+          },
+          {
+            "id": 18,
+            "workoutId": 3,
+            "exerciseId": 18,
+            "defaultSets": 3,
+            "defaultReps": 20,
+            "defaultUnit": 1,
+            "defaultWeight": "0",
+            "orderIndex": 7,
+            "exercise": {
+              "id": 18,
+              "name": "Calf Raises",
+              "category": "legs",
+              "muscleGroup": "calves",
+              "equipment": "Bodyweight",
+              "type": "Isolation",
+              "difficulty": 2
+            }
+          },
+          {
+            "id": 19,
+            "workoutId": 3,
+            "exerciseId": 19,
+            "defaultSets": 3,
+            "defaultReps": 15,
+            "defaultUnit": 1,
+            "defaultWeight": "0",
+            "orderIndex": 8,
+            "exercise": {
+              "id": 19,
+              "name": "Glute Bridges",
+              "category": "legs",
+              "muscleGroup": "glutes",
+              "equipment": "Bodyweight",
+              "type": "Compound",
+              "difficulty": 3
+            }
+          }
+        ],
+        "exerciseLogs": []
+      },
+      {
+        "id": 4,
+        "workoutPlanId": 3,
+        "name": "Day Three - Upper Body (Pull)",
+        "dayOfWeek": 3,
+        "createdAt": "2025-02-08T11:58:58.409Z",
+        "exercises": [
+          {
+            "id": 20,
+            "workoutId": 4,
+            "exerciseId": 20,
+            "defaultSets": 1,
+            "defaultReps": 15,
+            "defaultUnit": 1,
+            "defaultWeight": "0",
+            "orderIndex": 1,
+            "exercise": {
+              "id": 20,
+              "name": "Band Pull-Aparts",
+              "category": "warmup",
+              "muscleGroup": "back",
+              "equipment": "Band",
+              "type": "Warmup",
+              "difficulty": 1
+            }
+          },
+          {
+            "id": 21,
+            "workoutId": 4,
+            "exerciseId": 21,
+            "defaultSets": 1,
+            "defaultReps": 15,
+            "defaultUnit": 1,
+            "defaultWeight": "0",
+            "orderIndex": 2,
+            "exercise": {
+              "id": 21,
+              "name": "Shoulder Shrugs",
+              "category": "warmup",
+              "muscleGroup": "shoulders",
+              "equipment": "Bodyweight",
+              "type": "Warmup",
+              "difficulty": 1
+            }
+          },
+          {
+            "id": 22,
+            "workoutId": 4,
+            "exerciseId": 22,
+            "defaultSets": 3,
+            "defaultReps": 8,
+            "defaultUnit": 1,
+            "defaultWeight": "0",
+            "orderIndex": 3,
+            "exercise": {
+              "id": 22,
+              "name": "Assisted Pull-Ups",
+              "category": "pull",
+              "muscleGroup": "back",
+              "equipment": "Assisted Pull-Up Machine",
+              "type": "Compound",
+              "difficulty": 3
+            }
+          },
+          {
+            "id": 23,
+            "workoutId": 4,
+            "exerciseId": 23,
+            "defaultSets": 3,
+            "defaultReps": 10,
+            "defaultUnit": 1,
+            "defaultWeight": "0",
+            "orderIndex": 4,
+            "exercise": {
+              "id": 23,
+              "name": "Inverted Rows",
+              "category": "pull",
+              "muscleGroup": "back",
+              "equipment": "Bodyweight",
+              "type": "Compound",
+              "difficulty": 3
+            }
+          },
+          {
+            "id": 24,
+            "workoutId": 4,
+            "exerciseId": 24,
+            "defaultSets": 3,
+            "defaultReps": 12,
+            "defaultUnit": 1,
+            "defaultWeight": "0",
+            "orderIndex": 5,
+            "exercise": {
+              "id": 24,
+              "name": "Dumbbell Bicep Curls",
+              "category": "pull",
+              "muscleGroup": "biceps",
+              "equipment": "Dumbbell",
+              "type": "Isolation",
+              "difficulty": 2
+            }
+          },
+          {
+            "id": 25,
+            "workoutId": 4,
+            "exerciseId": 25,
+            "defaultSets": 3,
+            "defaultReps": 5,
+            "defaultUnit": 1,
+            "defaultWeight": "0",
+            "orderIndex": 6,
+            "exercise": {
+              "id": 25,
+              "name": "Negative Pull-Ups",
+              "category": "pull",
+              "muscleGroup": "back",
+              "equipment": "Bodyweight",
+              "type": "Compound",
+              "difficulty": 3
+            }
+          },
+          {
+            "id": 26,
+            "workoutId": 4,
+            "exerciseId": 26,
+            "defaultSets": 3,
+            "defaultReps": 12,
+            "defaultUnit": 1,
+            "defaultWeight": "0",
+            "orderIndex": 7,
+            "exercise": {
+              "id": 26,
+              "name": "Hanging Knee/Leg Raises",
+              "category": "core",
+              "muscleGroup": "abs",
+              "equipment": "Bodyweight",
+              "type": "Compound",
+              "difficulty": 3
+            }
+          },
+          {
+            "id": 27,
+            "workoutId": 4,
+            "exerciseId": 27,
+            "defaultSets": 3,
+            "defaultReps": 15,
+            "defaultUnit": 1,
+            "defaultWeight": "0",
+            "orderIndex": 8,
+            "exercise": {
+              "id": 27,
+              "name": "Supermans",
+              "category": "pull",
+              "muscleGroup": "lower back",
+              "equipment": "Bodyweight",
+              "type": "Isolation",
+              "difficulty": 2
+            }
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "workoutPlanId": 3,
+        "name": "Day Four - Rest",
+        "dayOfWeek": 4,
+        "createdAt": "2025-02-08T11:58:58.409Z",
+        "exercises": []
+      },
+      {
+        "id": 6,
+        "workoutPlanId": 3,
+        "name": "Day Five - Full Body",
+        "dayOfWeek": 5,
+        "createdAt": "2025-02-08T11:58:58.409Z",
+        "exercises": [
+          {
+            "id": 28,
+            "workoutId": 6,
+            "exerciseId": 28,
+            "defaultSets": 1,
+            "defaultReps": 10,
+            "defaultUnit": 1,
+            "defaultWeight": "0",
+            "orderIndex": 1,
+            "exercise": {
+              "id": 28,
+              "name": "Dynamic Arm Circles",
+              "category": "warmup",
+              "muscleGroup": "shoulders",
+              "equipment": "Bodyweight",
+              "type": "Warmup",
+              "difficulty": 1
+            }
+          },
+          {
+            "id": 29,
+            "workoutId": 6,
+            "exerciseId": 29,
+            "defaultSets": 1,
+            "defaultReps": 10,
+            "defaultUnit": 1,
+            "defaultWeight": "0",
+            "orderIndex": 2,
+            "exercise": {
+              "id": 29,
+              "name": "Dynamic Chest Opener",
+              "category": "warmup",
+              "muscleGroup": "chest",
+              "equipment": "Bodyweight",
+              "type": "Warmup",
+              "difficulty": 1
+            }
+          },
+          {
+            "id": 30,
+            "workoutId": 6,
+            "exerciseId": 30,
+            "defaultSets": 3,
+            "defaultReps": 10,
+            "defaultUnit": 1,
+            "defaultWeight": "0",
+            "orderIndex": 3,
+            "exercise": {
+              "id": 30,
+              "name": "Push-Ups",
+              "category": "push",
+              "muscleGroup": "chest",
+              "equipment": "Barbell",
+              "type": "Compound",
+              "difficulty": 3
+            }
+          },
+          {
+            "id": 31,
+            "workoutId": 6,
+            "exerciseId": 31,
+            "defaultSets": 3,
+            "defaultReps": 6,
+            "defaultUnit": 1,
+            "defaultWeight": "0",
+            "orderIndex": 4,
+            "exercise": {
+              "id": 31,
+              "name": "Barbell Chest Press",
+              "category": "push",
+              "muscleGroup": "chest",
+              "equipment": "Barbell",
+              "type": "Compound",
+              "difficulty": 3
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Workout 2",
+    "description": "A beginner-friendly hybrid workout that blends bodyweight and equipment-based exercises to develop strength, endurance, and mobility. Ideal for those starting their fitness journey.",
+    "isGlobal": true,
+    "createdById": null,
+    "createdAt": "2025-02-08T11:58:58.392Z",
+    "createdBy": null,
+    "users": [],
+    "workouts": [
+      {
+        "id": 2,
+        "workoutPlanId": 3,
+        "name": "Day One - Upper Body (Push) & Core",
+        "dayOfWeek": 1,
+        "createdAt": "2025-02-08T11:58:58.409Z",
+        "exercises": [
+          {
+            "id": 2,
+            "workoutId": 2,
+            "exerciseId": 2,
+            "defaultSets": 1,
+            "defaultReps": 30,
+            "defaultUnit": 1,
+            "defaultWeight": "0",
+            "orderIndex": 1,
+            "exercise": {
+              "id": 2,
+              "name": "Dynamic Arm Circles",
+              "category": "warmup",
+              "muscleGroup": "shoulders",
+              "equipment": "Bodyweight",
+              "type": "Warmup",
+              "difficulty": 1
+            }
+          },
+          {
+            "id": 3,
+            "workoutId": 2,
+            "exerciseId": 3,
+            "defaultSets": 1,
+            "defaultReps": 30,
+            "defaultUnit": 1,
+            "defaultWeight": "0",
+            "orderIndex": 2,
+            "exercise": {
+              "id": 3,
+              "name": "Dynamic Chest Opener",
+              "category": "warmup",
+              "muscleGroup": "chest",
+              "equipment": "Bodyweight",
+              "type": "Warmup",
+              "difficulty": 1
+            }
+          },
+          {
+            "id": 4,
+            "workoutId": 2,
+            "exerciseId": 4,
+            "defaultSets": 3,
+            "defaultReps": 10,
+            "defaultUnit": 1,
+            "defaultWeight": "0",
+            "orderIndex": 3,
+            "exercise": {
+              "id": 4,
+              "name": "Push-Ups",
+              "category": "push",
+              "muscleGroup": "chest",
+              "equipment": "Barbell",
+              "type": "Compound",
+              "difficulty": 3
+            }
+          },
+          {
+            "id": 5,
+            "workoutId": 2,
+            "exerciseId": 5,
+            "defaultSets": 3,
+            "defaultReps": 6,
+            "defaultUnit": 1,
+            "defaultWeight": "0",
+            "orderIndex": 4,
+            "exercise": {
+              "id": 5,
+              "name": "Barbell Chest Press",
+              "category": "push",
+              "muscleGroup": "chest",
+              "equipment": "Barbell",
+              "type": "Compound",
+              "difficulty": 3
+            }
+          },
+          {
+            "id": 6,
+            "workoutId": 2,
+            "exerciseId": 6,
+            "defaultSets": 3,
+            "defaultReps": 10,
+            "defaultUnit": 1,
+            "defaultWeight": "0",
+            "orderIndex": 5,
+            "exercise": {
+              "id": 6,
+              "name": "Dumbbell Shoulder Press",
+              "category": "push",
+              "muscleGroup": "shoulders",
+              "equipment": "Barbell",
+              "type": "Compound",
+              "difficulty": 3
+            }
+          },
+          {
+            "id": 7,
+            "workoutId": 2,
+            "exerciseId": 7,
+            "defaultSets": 3,
+            "defaultReps": 30,
+            "defaultUnit": 1,
+            "defaultWeight": "0",
+            "orderIndex": 6,
+            "exercise": {
+              "id": 7,
+              "name": "Plank",
+              "category": "core",
+              "muscleGroup": "abs",
+              "equipment": "Barbell",
+              "type": "Compound",
+              "difficulty": 3
+            }
+          },
+          {
+            "id": 8,
+            "workoutId": 2,
+            "exerciseId": 8,
+            "defaultSets": 3,
+            "defaultReps": 10,
+            "defaultUnit": 1,
+            "defaultWeight": "0",
+            "orderIndex": 7,
+            "exercise": {
+              "id": 8,
+              "name": "Chest Flys",
+              "category": "push",
+              "muscleGroup": "chest",
+              "equipment": "Barbell",
+              "type": "Compound",
+              "difficulty": 3
+            }
+          },
+          {
+            "id": 9,
+            "workoutId": 2,
+            "exerciseId": 9,
+            "defaultSets": 3,
+            "defaultReps": 10,
+            "defaultUnit": 1,
+            "defaultWeight": "0",
+            "orderIndex": 8,
+            "exercise": {
+              "id": 9,
+              "name": "Tricep Pulldowns",
+              "category": "push",
+              "muscleGroup": "triceps",
+              "equipment": "Barbell",
+              "type": "Compound",
+              "difficulty": 3
+            }
+          },
+          {
+            "id": 10,
+            "workoutId": 2,
+            "exerciseId": 10,
+            "defaultSets": 3,
+            "defaultReps": 10,
+            "defaultUnit": 1,
+            "defaultWeight": "0",
+            "orderIndex": 9,
+            "exercise": {
+              "id": 10,
+              "name": "Diamond Push-Ups",
+              "category": "push",
+              "muscleGroup": "triceps, chest",
+              "equipment": "Barbell",
+              "type": "Compound",
+              "difficulty": 3
+            }
+          },
+          {
+            "id": 11,
+            "workoutId": 2,
+            "exerciseId": 11,
+            "defaultSets": 3,
+            "defaultReps": 10,
+            "defaultUnit": 1,
+            "defaultWeight": "0",
+            "orderIndex": 10,
+            "exercise": {
+              "id": 11,
+              "name": "Pike Push-Ups",
+              "category": "push",
+              "muscleGroup": "shoulders, chest",
+              "equipment": "Barbell",
+              "type": "Compound",
+              "difficulty": 3
+            }
+          }
+        ],
+        "exerciseLogs": []
+      },
+      {
+        "id": 3,
+        "workoutPlanId": 3,
+        "name": "Day Two - Lower Body",
+        "dayOfWeek": 2,
+        "createdAt": "2025-02-08T11:58:58.409Z",
+        "exercises": [
+          {
+            "id": 12,
+            "workoutId": 3,
+            "exerciseId": 12,
+            "defaultSets": 1,
+            "defaultReps": 10,
+            "defaultUnit": 1,
+            "defaultWeight": "0",
+            "orderIndex": 1,
+            "exercise": {
+              "id": 12,
+              "name": "Dynamic Leg Swings",
+              "category": "warmup",
+              "muscleGroup": "legs",
+              "equipment": "Bodyweight",
+              "type": "Warmup",
+              "difficulty": 1
+            }
+          },
+          {
+            "id": 13,
+            "workoutId": 3,
+            "exerciseId": 13,
+            "defaultSets": 1,
+            "defaultReps": 10,
+            "defaultUnit": 1,
+            "defaultWeight": "0",
+            "orderIndex": 2,
+            "exercise": {
+              "id": 13,
+              "name": "Hip Circles",
+              "category": "warmup",
+              "muscleGroup": "hips",
+              "equipment": "Bodyweight",
+              "type": "Warmup",
+              "difficulty": 1
+            }
+          },
+          {
+            "id": 14,
+            "workoutId": 3,
+            "exerciseId": 14,
+            "defaultSets": 3,
+            "defaultReps": 15,
+            "defaultUnit": 1,
+            "defaultWeight": "0",
+            "orderIndex": 3,
+            "exercise": {
+              "id": 14,
+              "name": "Bodyweight Squats",
+              "category": "legs",
+              "muscleGroup": "quads",
+              "equipment": "Bodyweight",
+              "type": "Compound",
+              "difficulty": 3
+            }
+          },
+          {
+            "id": 15,
+            "workoutId": 3,
+            "exerciseId": 15,
+            "defaultSets": 3,
+            "defaultReps": 10,
+            "defaultUnit": 1,
+            "defaultWeight": "0",
+            "orderIndex": 4,
+            "exercise": {
+              "id": 15,
+              "name": "Walking Lunges",
+              "category": "legs",
+              "muscleGroup": "glutes, quads",
+              "equipment": "Bodyweight",
+              "type": "Compound",
+              "difficulty": 3
+            }
+          },
+          {
+            "id": 16,
+            "workoutId": 3,
+            "exerciseId": 16,
+            "defaultSets": 3,
+            "defaultReps": 10,
+            "defaultUnit": 1,
+            "defaultWeight": "0",
+            "orderIndex": 5,
+            "exercise": {
+              "id": 16,
+              "name": "Dumbbell Deadlifts",
+              "category": "pull",
+              "muscleGroup": "hamstrings, lower back",
+              "equipment": "Dumbbell",
+              "type": "Compound",
+              "difficulty": 3
+            }
+          },
+          {
+            "id": 17,
+            "workoutId": 3,
+            "exerciseId": 17,
+            "defaultSets": 3,
+            "defaultReps": 10,
+            "defaultUnit": 1,
+            "defaultWeight": "0",
+            "orderIndex": 6,
+            "exercise": {
+              "id": 17,
+              "name": "Bulgarian Split Squats",
+              "category": "legs",
+              "muscleGroup": "quads, glutes",
+              "equipment": "Bodyweight",
+              "type": "Compound",
+              "difficulty": 3
+            }
+          },
+          {
+            "id": 18,
+            "workoutId": 3,
+            "exerciseId": 18,
+            "defaultSets": 3,
+            "defaultReps": 20,
+            "defaultUnit": 1,
+            "defaultWeight": "0",
+            "orderIndex": 7,
+            "exercise": {
+              "id": 18,
+              "name": "Calf Raises",
+              "category": "legs",
+              "muscleGroup": "calves",
+              "equipment": "Bodyweight",
+              "type": "Isolation",
+              "difficulty": 2
+            }
+          },
+          {
+            "id": 19,
+            "workoutId": 3,
+            "exerciseId": 19,
+            "defaultSets": 3,
+            "defaultReps": 15,
+            "defaultUnit": 1,
+            "defaultWeight": "0",
+            "orderIndex": 8,
+            "exercise": {
+              "id": 19,
+              "name": "Glute Bridges",
+              "category": "legs",
+              "muscleGroup": "glutes",
+              "equipment": "Bodyweight",
+              "type": "Compound",
+              "difficulty": 3
+            }
+          }
+        ],
+        "exerciseLogs": []
+      },
+      {
+        "id": 4,
+        "workoutPlanId": 3,
+        "name": "Day Three - Upper Body (Pull)",
+        "dayOfWeek": 3,
+        "createdAt": "2025-02-08T11:58:58.409Z",
+        "exercises": [
+          {
+            "id": 20,
+            "workoutId": 4,
+            "exerciseId": 20,
+            "defaultSets": 1,
+            "defaultReps": 15,
+            "defaultUnit": 1,
+            "defaultWeight": "0",
+            "orderIndex": 1,
+            "exercise": {
+              "id": 20,
+              "name": "Band Pull-Aparts",
+              "category": "warmup",
+              "muscleGroup": "back",
+              "equipment": "Band",
+              "type": "Warmup",
+              "difficulty": 1
+            }
+          },
+          {
+            "id": 21,
+            "workoutId": 4,
+            "exerciseId": 21,
+            "defaultSets": 1,
+            "defaultReps": 15,
+            "defaultUnit": 1,
+            "defaultWeight": "0",
+            "orderIndex": 2,
+            "exercise": {
+              "id": 21,
+              "name": "Shoulder Shrugs",
+              "category": "warmup",
+              "muscleGroup": "shoulders",
+              "equipment": "Bodyweight",
+              "type": "Warmup",
+              "difficulty": 1
+            }
+          },
+          {
+            "id": 22,
+            "workoutId": 4,
+            "exerciseId": 22,
+            "defaultSets": 3,
+            "defaultReps": 8,
+            "defaultUnit": 1,
+            "defaultWeight": "0",
+            "orderIndex": 3,
+            "exercise": {
+              "id": 22,
+              "name": "Assisted Pull-Ups",
+              "category": "pull",
+              "muscleGroup": "back",
+              "equipment": "Assisted Pull-Up Machine",
+              "type": "Compound",
+              "difficulty": 3
+            }
+          },
+          {
+            "id": 23,
+            "workoutId": 4,
+            "exerciseId": 23,
+            "defaultSets": 3,
+            "defaultReps": 10,
+            "defaultUnit": 1,
+            "defaultWeight": "0",
+            "orderIndex": 4,
+            "exercise": {
+              "id": 23,
+              "name": "Inverted Rows",
+              "category": "pull",
+              "muscleGroup": "back",
+              "equipment": "Bodyweight",
+              "type": "Compound",
+              "difficulty": 3
+            }
+          },
+          {
+            "id": 24,
+            "workoutId": 4,
+            "exerciseId": 24,
+            "defaultSets": 3,
+            "defaultReps": 12,
+            "defaultUnit": 1,
+            "defaultWeight": "0",
+            "orderIndex": 5,
+            "exercise": {
+              "id": 24,
+              "name": "Dumbbell Bicep Curls",
+              "category": "pull",
+              "muscleGroup": "biceps",
+              "equipment": "Dumbbell",
+              "type": "Isolation",
+              "difficulty": 2
+            }
+          },
+          {
+            "id": 25,
+            "workoutId": 4,
+            "exerciseId": 25,
+            "defaultSets": 3,
+            "defaultReps": 5,
+            "defaultUnit": 1,
+            "defaultWeight": "0",
+            "orderIndex": 6,
+            "exercise": {
+              "id": 25,
+              "name": "Negative Pull-Ups",
+              "category": "pull",
+              "muscleGroup": "back",
+              "equipment": "Bodyweight",
+              "type": "Compound",
+              "difficulty": 3
+            }
+          },
+          {
+            "id": 26,
+            "workoutId": 4,
+            "exerciseId": 26,
+            "defaultSets": 3,
+            "defaultReps": 12,
+            "defaultUnit": 1,
+            "defaultWeight": "0",
+            "orderIndex": 7,
+            "exercise": {
+              "id": 26,
+              "name": "Hanging Knee/Leg Raises",
+              "category": "core",
+              "muscleGroup": "abs",
+              "equipment": "Bodyweight",
+              "type": "Compound",
+              "difficulty": 3
+            }
+          },
+          {
+            "id": 27,
+            "workoutId": 4,
+            "exerciseId": 27,
+            "defaultSets": 3,
+            "defaultReps": 15,
+            "defaultUnit": 1,
+            "defaultWeight": "0",
+            "orderIndex": 8,
+            "exercise": {
+              "id": 27,
+              "name": "Supermans",
+              "category": "pull",
+              "muscleGroup": "lower back",
+              "equipment": "Bodyweight",
+              "type": "Isolation",
+              "difficulty": 2
+            }
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "workoutPlanId": 3,
+        "name": "Day Four - Rest",
+        "dayOfWeek": 4,
+        "createdAt": "2025-02-08T11:58:58.409Z",
+        "exercises": []
+      },
+      {
+        "id": 6,
+        "workoutPlanId": 3,
+        "name": "Day Five - Full Body",
+        "dayOfWeek": 5,
+        "createdAt": "2025-02-08T11:58:58.409Z",
+        "exercises": [
+          {
+            "id": 28,
+            "workoutId": 6,
+            "exerciseId": 28,
+            "defaultSets": 1,
+            "defaultReps": 10,
+            "defaultUnit": 1,
+            "defaultWeight": "0",
+            "orderIndex": 1,
+            "exercise": {
+              "id": 28,
+              "name": "Dynamic Arm Circles",
+              "category": "warmup",
+              "muscleGroup": "shoulders",
+              "equipment": "Bodyweight",
+              "type": "Warmup",
+              "difficulty": 1
+            }
+          },
+          {
+            "id": 29,
+            "workoutId": 6,
+            "exerciseId": 29,
+            "defaultSets": 1,
+            "defaultReps": 10,
+            "defaultUnit": 1,
+            "defaultWeight": "0",
+            "orderIndex": 2,
+            "exercise": {
+              "id": 29,
+              "name": "Dynamic Chest Opener",
+              "category": "warmup",
+              "muscleGroup": "chest",
+              "equipment": "Bodyweight",
+              "type": "Warmup",
+              "difficulty": 1
+            }
+          },
+          {
+            "id": 30,
+            "workoutId": 6,
+            "exerciseId": 30,
+            "defaultSets": 3,
+            "defaultReps": 10,
+            "defaultUnit": 1,
+            "defaultWeight": "0",
+            "orderIndex": 3,
+            "exercise": {
+              "id": 30,
+              "name": "Push-Ups",
+              "category": "push",
+              "muscleGroup": "chest",
+              "equipment": "Barbell",
+              "type": "Compound",
+              "difficulty": 3
+            }
+          },
+          {
+            "id": 31,
+            "workoutId": 6,
+            "exerciseId": 31,
+            "defaultSets": 3,
+            "defaultReps": 6,
+            "defaultUnit": 1,
+            "defaultWeight": "0",
+            "orderIndex": 4,
+            "exercise": {
+              "id": 31,
+              "name": "Barbell Chest Press",
+              "category": "push",
+              "muscleGroup": "chest",
+              "equipment": "Barbell",
+              "type": "Compound",
+              "difficulty": 3
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Workout 3",
+    "description": "A beginner-friendly hybrid workout that blends bodyweight and equipment-based exercises to develop strength, endurance, and mobility. Ideal for those starting their fitness journey.",
+    "isGlobal": true,
+    "createdById": null,
+    "createdAt": "2025-02-08T11:58:58.392Z",
+    "createdBy": null,
+    "users": [],
+    "workouts": [
+      {
+        "id": 2,
+        "workoutPlanId": 3,
+        "name": "Day One - Upper Body (Push) & Core",
+        "dayOfWeek": 1,
+        "createdAt": "2025-02-08T11:58:58.409Z",
+        "exercises": [
+          {
+            "id": 2,
+            "workoutId": 2,
+            "exerciseId": 2,
+            "defaultSets": 1,
+            "defaultReps": 30,
+            "defaultUnit": 1,
+            "defaultWeight": "0",
+            "orderIndex": 1,
+            "exercise": {
+              "id": 2,
+              "name": "Dynamic Arm Circles",
+              "category": "warmup",
+              "muscleGroup": "shoulders",
+              "equipment": "Bodyweight",
+              "type": "Warmup",
+              "difficulty": 1
+            }
+          },
+          {
+            "id": 3,
+            "workoutId": 2,
+            "exerciseId": 3,
+            "defaultSets": 1,
+            "defaultReps": 30,
+            "defaultUnit": 1,
+            "defaultWeight": "0",
+            "orderIndex": 2,
+            "exercise": {
+              "id": 3,
+              "name": "Dynamic Chest Opener",
+              "category": "warmup",
+              "muscleGroup": "chest",
+              "equipment": "Bodyweight",
+              "type": "Warmup",
+              "difficulty": 1
+            }
+          },
+          {
+            "id": 4,
+            "workoutId": 2,
+            "exerciseId": 4,
+            "defaultSets": 3,
+            "defaultReps": 10,
+            "defaultUnit": 1,
+            "defaultWeight": "0",
+            "orderIndex": 3,
+            "exercise": {
+              "id": 4,
+              "name": "Push-Ups",
+              "category": "push",
+              "muscleGroup": "chest",
+              "equipment": "Barbell",
+              "type": "Compound",
+              "difficulty": 3
+            }
+          },
+          {
+            "id": 5,
+            "workoutId": 2,
+            "exerciseId": 5,
+            "defaultSets": 3,
+            "defaultReps": 6,
+            "defaultUnit": 1,
+            "defaultWeight": "0",
+            "orderIndex": 4,
+            "exercise": {
+              "id": 5,
+              "name": "Barbell Chest Press",
+              "category": "push",
+              "muscleGroup": "chest",
+              "equipment": "Barbell",
+              "type": "Compound",
+              "difficulty": 3
+            }
+          },
+          {
+            "id": 6,
+            "workoutId": 2,
+            "exerciseId": 6,
+            "defaultSets": 3,
+            "defaultReps": 10,
+            "defaultUnit": 1,
+            "defaultWeight": "0",
+            "orderIndex": 5,
+            "exercise": {
+              "id": 6,
+              "name": "Dumbbell Shoulder Press",
+              "category": "push",
+              "muscleGroup": "shoulders",
+              "equipment": "Barbell",
+              "type": "Compound",
+              "difficulty": 3
+            }
+          },
+          {
+            "id": 7,
+            "workoutId": 2,
+            "exerciseId": 7,
+            "defaultSets": 3,
+            "defaultReps": 30,
+            "defaultUnit": 1,
+            "defaultWeight": "0",
+            "orderIndex": 6,
+            "exercise": {
+              "id": 7,
+              "name": "Plank",
+              "category": "core",
+              "muscleGroup": "abs",
+              "equipment": "Barbell",
+              "type": "Compound",
+              "difficulty": 3
+            }
+          },
+          {
+            "id": 8,
+            "workoutId": 2,
+            "exerciseId": 8,
+            "defaultSets": 3,
+            "defaultReps": 10,
+            "defaultUnit": 1,
+            "defaultWeight": "0",
+            "orderIndex": 7,
+            "exercise": {
+              "id": 8,
+              "name": "Chest Flys",
+              "category": "push",
+              "muscleGroup": "chest",
+              "equipment": "Barbell",
+              "type": "Compound",
+              "difficulty": 3
+            }
+          },
+          {
+            "id": 9,
+            "workoutId": 2,
+            "exerciseId": 9,
+            "defaultSets": 3,
+            "defaultReps": 10,
+            "defaultUnit": 1,
+            "defaultWeight": "0",
+            "orderIndex": 8,
+            "exercise": {
+              "id": 9,
+              "name": "Tricep Pulldowns",
+              "category": "push",
+              "muscleGroup": "triceps",
+              "equipment": "Barbell",
+              "type": "Compound",
+              "difficulty": 3
+            }
+          },
+          {
+            "id": 10,
+            "workoutId": 2,
+            "exerciseId": 10,
+            "defaultSets": 3,
+            "defaultReps": 10,
+            "defaultUnit": 1,
+            "defaultWeight": "0",
+            "orderIndex": 9,
+            "exercise": {
+              "id": 10,
+              "name": "Diamond Push-Ups",
+              "category": "push",
+              "muscleGroup": "triceps, chest",
+              "equipment": "Barbell",
+              "type": "Compound",
+              "difficulty": 3
+            }
+          },
+          {
+            "id": 11,
+            "workoutId": 2,
+            "exerciseId": 11,
+            "defaultSets": 3,
+            "defaultReps": 10,
+            "defaultUnit": 1,
+            "defaultWeight": "0",
+            "orderIndex": 10,
+            "exercise": {
+              "id": 11,
+              "name": "Pike Push-Ups",
+              "category": "push",
+              "muscleGroup": "shoulders, chest",
+              "equipment": "Barbell",
+              "type": "Compound",
+              "difficulty": 3
+            }
+          }
+        ],
+        "exerciseLogs": []
+      },
+      {
+        "id": 3,
+        "workoutPlanId": 3,
+        "name": "Day Two - Lower Body",
+        "dayOfWeek": 2,
+        "createdAt": "2025-02-08T11:58:58.409Z",
+        "exercises": [
+          {
+            "id": 12,
+            "workoutId": 3,
+            "exerciseId": 12,
+            "defaultSets": 1,
+            "defaultReps": 10,
+            "defaultUnit": 1,
+            "defaultWeight": "0",
+            "orderIndex": 1,
+            "exercise": {
+              "id": 12,
+              "name": "Dynamic Leg Swings",
+              "category": "warmup",
+              "muscleGroup": "legs",
+              "equipment": "Bodyweight",
+              "type": "Warmup",
+              "difficulty": 1
+            }
+          },
+          {
+            "id": 13,
+            "workoutId": 3,
+            "exerciseId": 13,
+            "defaultSets": 1,
+            "defaultReps": 10,
+            "defaultUnit": 1,
+            "defaultWeight": "0",
+            "orderIndex": 2,
+            "exercise": {
+              "id": 13,
+              "name": "Hip Circles",
+              "category": "warmup",
+              "muscleGroup": "hips",
+              "equipment": "Bodyweight",
+              "type": "Warmup",
+              "difficulty": 1
+            }
+          },
+          {
+            "id": 14,
+            "workoutId": 3,
+            "exerciseId": 14,
+            "defaultSets": 3,
+            "defaultReps": 15,
+            "defaultUnit": 1,
+            "defaultWeight": "0",
+            "orderIndex": 3,
+            "exercise": {
+              "id": 14,
+              "name": "Bodyweight Squats",
+              "category": "legs",
+              "muscleGroup": "quads",
+              "equipment": "Bodyweight",
+              "type": "Compound",
+              "difficulty": 3
+            }
+          },
+          {
+            "id": 15,
+            "workoutId": 3,
+            "exerciseId": 15,
+            "defaultSets": 3,
+            "defaultReps": 10,
+            "defaultUnit": 1,
+            "defaultWeight": "0",
+            "orderIndex": 4,
+            "exercise": {
+              "id": 15,
+              "name": "Walking Lunges",
+              "category": "legs",
+              "muscleGroup": "glutes, quads",
+              "equipment": "Bodyweight",
+              "type": "Compound",
+              "difficulty": 3
+            }
+          },
+          {
+            "id": 16,
+            "workoutId": 3,
+            "exerciseId": 16,
+            "defaultSets": 3,
+            "defaultReps": 10,
+            "defaultUnit": 1,
+            "defaultWeight": "0",
+            "orderIndex": 5,
+            "exercise": {
+              "id": 16,
+              "name": "Dumbbell Deadlifts",
+              "category": "pull",
+              "muscleGroup": "hamstrings, lower back",
+              "equipment": "Dumbbell",
+              "type": "Compound",
+              "difficulty": 3
+            }
+          },
+          {
+            "id": 17,
+            "workoutId": 3,
+            "exerciseId": 17,
+            "defaultSets": 3,
+            "defaultReps": 10,
+            "defaultUnit": 1,
+            "defaultWeight": "0",
+            "orderIndex": 6,
+            "exercise": {
+              "id": 17,
+              "name": "Bulgarian Split Squats",
+              "category": "legs",
+              "muscleGroup": "quads, glutes",
+              "equipment": "Bodyweight",
+              "type": "Compound",
+              "difficulty": 3
+            }
+          },
+          {
+            "id": 18,
+            "workoutId": 3,
+            "exerciseId": 18,
+            "defaultSets": 3,
+            "defaultReps": 20,
+            "defaultUnit": 1,
+            "defaultWeight": "0",
+            "orderIndex": 7,
+            "exercise": {
+              "id": 18,
+              "name": "Calf Raises",
+              "category": "legs",
+              "muscleGroup": "calves",
+              "equipment": "Bodyweight",
+              "type": "Isolation",
+              "difficulty": 2
+            }
+          },
+          {
+            "id": 19,
+            "workoutId": 3,
+            "exerciseId": 19,
+            "defaultSets": 3,
+            "defaultReps": 15,
+            "defaultUnit": 1,
+            "defaultWeight": "0",
+            "orderIndex": 8,
+            "exercise": {
+              "id": 19,
+              "name": "Glute Bridges",
+              "category": "legs",
+              "muscleGroup": "glutes",
+              "equipment": "Bodyweight",
+              "type": "Compound",
+              "difficulty": 3
+            }
+          }
+        ],
+        "exerciseLogs": []
+      },
+      {
+        "id": 4,
+        "workoutPlanId": 3,
+        "name": "Day Three - Upper Body (Pull)",
+        "dayOfWeek": 3,
+        "createdAt": "2025-02-08T11:58:58.409Z",
+        "exercises": [
+          {
+            "id": 20,
+            "workoutId": 4,
+            "exerciseId": 20,
+            "defaultSets": 1,
+            "defaultReps": 15,
+            "defaultUnit": 1,
+            "defaultWeight": "0",
+            "orderIndex": 1,
+            "exercise": {
+              "id": 20,
+              "name": "Band Pull-Aparts",
+              "category": "warmup",
+              "muscleGroup": "back",
+              "equipment": "Band",
+              "type": "Warmup",
+              "difficulty": 1
+            }
+          },
+          {
+            "id": 21,
+            "workoutId": 4,
+            "exerciseId": 21,
+            "defaultSets": 1,
+            "defaultReps": 15,
+            "defaultUnit": 1,
+            "defaultWeight": "0",
+            "orderIndex": 2,
+            "exercise": {
+              "id": 21,
+              "name": "Shoulder Shrugs",
+              "category": "warmup",
+              "muscleGroup": "shoulders",
+              "equipment": "Bodyweight",
+              "type": "Warmup",
+              "difficulty": 1
+            }
+          },
+          {
+            "id": 22,
+            "workoutId": 4,
+            "exerciseId": 22,
+            "defaultSets": 3,
+            "defaultReps": 8,
+            "defaultUnit": 1,
+            "defaultWeight": "0",
+            "orderIndex": 3,
+            "exercise": {
+              "id": 22,
+              "name": "Assisted Pull-Ups",
+              "category": "pull",
+              "muscleGroup": "back",
+              "equipment": "Assisted Pull-Up Machine",
+              "type": "Compound",
+              "difficulty": 3
+            }
+          },
+          {
+            "id": 23,
+            "workoutId": 4,
+            "exerciseId": 23,
+            "defaultSets": 3,
+            "defaultReps": 10,
+            "defaultUnit": 1,
+            "defaultWeight": "0",
+            "orderIndex": 4,
+            "exercise": {
+              "id": 23,
+              "name": "Inverted Rows",
+              "category": "pull",
+              "muscleGroup": "back",
+              "equipment": "Bodyweight",
+              "type": "Compound",
+              "difficulty": 3
+            }
+          },
+          {
+            "id": 24,
+            "workoutId": 4,
+            "exerciseId": 24,
+            "defaultSets": 3,
+            "defaultReps": 12,
+            "defaultUnit": 1,
+            "defaultWeight": "0",
+            "orderIndex": 5,
+            "exercise": {
+              "id": 24,
+              "name": "Dumbbell Bicep Curls",
+              "category": "pull",
+              "muscleGroup": "biceps",
+              "equipment": "Dumbbell",
+              "type": "Isolation",
+              "difficulty": 2
+            }
+          },
+          {
+            "id": 25,
+            "workoutId": 4,
+            "exerciseId": 25,
+            "defaultSets": 3,
+            "defaultReps": 5,
+            "defaultUnit": 1,
+            "defaultWeight": "0",
+            "orderIndex": 6,
+            "exercise": {
+              "id": 25,
+              "name": "Negative Pull-Ups",
+              "category": "pull",
+              "muscleGroup": "back",
+              "equipment": "Bodyweight",
+              "type": "Compound",
+              "difficulty": 3
+            }
+          },
+          {
+            "id": 26,
+            "workoutId": 4,
+            "exerciseId": 26,
+            "defaultSets": 3,
+            "defaultReps": 12,
+            "defaultUnit": 1,
+            "defaultWeight": "0",
+            "orderIndex": 7,
+            "exercise": {
+              "id": 26,
+              "name": "Hanging Knee/Leg Raises",
+              "category": "core",
+              "muscleGroup": "abs",
+              "equipment": "Bodyweight",
+              "type": "Compound",
+              "difficulty": 3
+            }
+          },
+          {
+            "id": 27,
+            "workoutId": 4,
+            "exerciseId": 27,
+            "defaultSets": 3,
+            "defaultReps": 15,
+            "defaultUnit": 1,
+            "defaultWeight": "0",
+            "orderIndex": 8,
+            "exercise": {
+              "id": 27,
+              "name": "Supermans",
+              "category": "pull",
+              "muscleGroup": "lower back",
+              "equipment": "Bodyweight",
+              "type": "Isolation",
+              "difficulty": 2
+            }
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "workoutPlanId": 3,
+        "name": "Day Four - Rest",
+        "dayOfWeek": 4,
+        "createdAt": "2025-02-08T11:58:58.409Z",
+        "exercises": []
+      },
+      {
+        "id": 6,
+        "workoutPlanId": 3,
+        "name": "Day Five - Full Body",
+        "dayOfWeek": 5,
+        "createdAt": "2025-02-08T11:58:58.409Z",
+        "exercises": [
+          {
+            "id": 28,
+            "workoutId": 6,
+            "exerciseId": 28,
+            "defaultSets": 1,
+            "defaultReps": 10,
+            "defaultUnit": 1,
+            "defaultWeight": "0",
+            "orderIndex": 1,
+            "exercise": {
+              "id": 28,
+              "name": "Dynamic Arm Circles",
+              "category": "warmup",
+              "muscleGroup": "shoulders",
+              "equipment": "Bodyweight",
+              "type": "Warmup",
+              "difficulty": 1
+            }
+          },
+          {
+            "id": 29,
+            "workoutId": 6,
+            "exerciseId": 29,
+            "defaultSets": 1,
+            "defaultReps": 10,
+            "defaultUnit": 1,
+            "defaultWeight": "0",
+            "orderIndex": 2,
+            "exercise": {
+              "id": 29,
+              "name": "Dynamic Chest Opener",
+              "category": "warmup",
+              "muscleGroup": "chest",
+              "equipment": "Bodyweight",
+              "type": "Warmup",
+              "difficulty": 1
+            }
+          },
+          {
+            "id": 30,
+            "workoutId": 6,
+            "exerciseId": 30,
+            "defaultSets": 3,
+            "defaultReps": 10,
+            "defaultUnit": 1,
+            "defaultWeight": "0",
+            "orderIndex": 3,
+            "exercise": {
+              "id": 30,
+              "name": "Push-Ups",
+              "category": "push",
+              "muscleGroup": "chest",
+              "equipment": "Barbell",
+              "type": "Compound",
+              "difficulty": 3
+            }
+          },
+          {
+            "id": 31,
+            "workoutId": 6,
+            "exerciseId": 31,
+            "defaultSets": 3,
+            "defaultReps": 6,
+            "defaultUnit": 1,
+            "defaultWeight": "0",
+            "orderIndex": 4,
+            "exercise": {
+              "id": 31,
+              "name": "Barbell Chest Press",
+              "category": "push",
+              "muscleGroup": "chest",
+              "equipment": "Barbell",
+              "type": "Compound",
+              "difficulty": 3
+            }
+          }
+        ]
+      }
+    ]
+  }
+]
